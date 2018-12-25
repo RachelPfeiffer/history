@@ -19,6 +19,8 @@ Note: You can't run this program in Internet Explorer, because it uses the Fetch
 When I have time, I want to add some features:
 - An 'on-target' area, which you can check off to see if current search was work related, with a calculation at the bottom of how much of your time is spent on work.
 - A 'most-visited' area, where you can see which sites you check WAY too often.
+- A 'why-weren't-you-in-bed' alert, for sites visited between 12 and 5 a.m.
+- An automatic update feature, which will download your latest history and save it as the history.json file automatically.
 
 ## contributing
 I feel very attached to this project because it is improving my life every day! If you have comments, questions, complaints, or old song lyrics to share - please submit a pull request.
