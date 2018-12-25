@@ -7,6 +7,8 @@ This program prevents me from wasting time. Every week, my trusted partner, Yehu
 ## Dependencies
 To use this program, you need the export history extension, which will give you your google history as a json file. Get it for free from https://chrome.google.com/webstore/detail/export-history/hcohnnbbiggngobheobhdipbgmcbelhh 
 
+Note: You can't run this program in Internet Explorer, because it uses the Fetch API. If you also hate Internet Explorer...let's discuss it later.
+
 ## Using this project
 1. Clone the project to your GitHub account.
 2. Save your history file as history.json in the project folder, replacing the current history.json file.
