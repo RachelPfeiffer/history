@@ -1,4 +1,4 @@
-fetch('history.json').then(function (response) {
+fetch('history2.json').then(function (response) {
 return response.json();
 }).then(fillMainPage);
 
